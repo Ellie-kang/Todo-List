@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "task": "숙제하기",
+      "due": "20231216",
+      "status": "todo"
+    },
+    {
+      "id": 2,
+      "task": "자기",
+      "due": "20231217",
+      "status": "done"
+    },
+    {
+      "id": 3,
+      "task": "공부하기",
+      "due": "20231218",
+      "status": "done"
+    },
+    {
+      "id": 4,
+      "task": "달리기",
+      "due": "20231219",
+      "status": "todo"
+    },
+    {
+      "id": 5,
+      "task": "운동하기",
+      "due": "20231220",
+      "status": "todo"
+    },
+    {
+      "id": 6,
+      "task": "책읽기",
+      "due": "20231221",
+      "status": "todo"
+    },
+    {
+      "id": 7,
+      "task": "TV보기",
+      "due": "20231222",
+      "status": "todo"
+    },
+    {
+      "id": 8,
+      "task": "코딩하기",
+      "due": "20231223",
+      "status": "todo"
+    },
+    {
+      "id": 9,
+      "task": "밥먹기",
+      "due": "20231224",
+      "status": "todo"
+    },
+    {
+      "task": "게임하기",
+      "due": "20231223",
+      "status": "todo",
+      "id": 11
+    },
+    {
+      "task": "todo-list 완성하기",
+      "due": "20231226",
+      "status": "todo",
+      "id": 12
+    },
+    {
+      "task": "2023",
+      "due": "끝",
+      "status": "todo",
+      "id": 13
+    }
+  ]
+}
